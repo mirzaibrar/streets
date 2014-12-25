@@ -1,0 +1,3 @@
+tracked and committed
+some modification after commit and adding in .gitignore
+
